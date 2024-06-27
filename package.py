@@ -1,6 +1,6 @@
 name = "jobqueue"
 title = "JobQueue"
-version = "1.1.0"
+version = "1.1.1-dev.1"
 client_dir = "ayon_jobqueue"
 
 ayon_required_addons = {
